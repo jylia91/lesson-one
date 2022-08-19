@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Maine {
+public class Maine {
+
+    public static void main(String[] args) {
+
+    }
 }
